@@ -1,5 +1,15 @@
-#  AutoGpt with  LLM Support
-#Picture this: Continue seamlessly integrated into your entire operating system! Whether you're coding in Notepad or composing emails, this revamped version of Continue will be right there with you, making your life easier.
+# ProductivityTool
+
+## Overview
+This Tool is a versatile productivity tool designed to enhance your workflow across various platforms. It offers features similar to vscode copiolet with the added capability of integration with any IDE or notepad, making your development process smoother and more efficient.
+
+## Features
+- **Versatility**: Works seamlessly with any IDE or notepad.
+- **Code Assistance**: Provides intelligent code suggestions and auto-completion to speed up coding tasks.
+- **Customizable**: Tailor the tool to fit your specific workflow preferences.
+- **Cross-Platform**: Compatible with multiple operating systems, ensuring flexibility in usage.
+- **Efficiency**: Enhances productivity by streamlining common development tasks.
+
 
 
 #  working in VS code
